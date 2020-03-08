@@ -1,0 +1,40 @@
+#synchronize t, y, w, r
+
+{
+	"a"
+	t = 9
+	True
+	w
+}
+
+{
+	$ 5
+	r = 9
+	fAlse
+	"b"
+}
+
+{
+	"5"
+	5
+	TrUe
+}
+
+{
+	t = 5
+	w = 1
+	w
+	r
+	"c"
+	r = 2
+	d
+	t
+	t = 23
+}
+
+{
+	45
+	t = 50
+	w = 10
+}
+

@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Project build
+/tmp
+/lrn/thread-safe
+/prs/lexicon.c
+/prs/syntax.h
+/prs/syntax.c
+
+#CLion
+/.idea
+/cmake-build-*
+CMakeList.txt
